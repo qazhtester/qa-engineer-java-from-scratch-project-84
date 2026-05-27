@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/qazhtester/qa-engineer-java-from-scratch-project-84/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/qazhtester/qa-engineer-java-from-scratch-project-84/actions)
